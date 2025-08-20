@@ -22,7 +22,7 @@ Experience in process improvement, KPIs tracking, and digital transformation pro
 🛠️ Skills
 - **Languages & Tools**: Python, SQL, Power BI, Tableau, Excel, MATLAB  
 - **Data**: Data cleaning, visualization, KPIs, process analysis  
-- **Currently learning**: Machine Learning basics, cloud computing for analytics  
+
 
 
 
